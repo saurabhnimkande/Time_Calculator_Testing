@@ -1,0 +1,22 @@
+{
+  "name": "time_calculator_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhnimkande/Time_Calculator_Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhnimkande/Time_Calculator_Testing/issues"
+  },
+  "homepage": "https://github.com/saurabhnimkande/Time_Calculator_Testing#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
